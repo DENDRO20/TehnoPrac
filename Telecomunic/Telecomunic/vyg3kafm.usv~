@@ -1,0 +1,40 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace Telecomunic
+{
+    public partial class GetSubscription : UserControl
+    {
+        public GetSubscription()
+        {
+            InitializeComponent();
+        }
+
+        private void pdfOriginal_Click(object sender, EventArgs e)
+        {
+            tabControl1.SelectTab(1);
+        }
+
+        private void pdfPlus_Click(object sender, EventArgs e)
+        {
+            tabControl1.SelectTab(2);
+        }
+
+        private void pdfMobile_Click(object sender, EventArgs e)
+        {
+            tabControl1.SelectTab(3);
+        }
+
+        private void pdfMobilePlus_Click(object sender, EventArgs e)
+        {
+            tabControl1.SelectTab(4);
+        }
+    }
+}

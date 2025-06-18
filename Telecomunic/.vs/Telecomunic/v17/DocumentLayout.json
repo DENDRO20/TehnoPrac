@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\STUDENT\\Iug1n\\ActualThing\\Telecomunic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1FCB05A6-FBE7-4169-9481-55338A58F8CE}|Telecomunic\\Telecomunic.csproj|D:\\STUDENT\\Iug1n\\ActualThing\\Telecomunic\\telecomunic\\mycontracts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FCB05A6-FBE7-4169-9481-55338A58F8CE}|Telecomunic\\Telecomunic.csproj|solutionrelative:telecomunic\\mycontracts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FCB05A6-FBE7-4169-9481-55338A58F8CE}|Telecomunic\\Telecomunic.csproj|D:\\STUDENT\\Iug1n\\ActualThing\\Telecomunic\\telecomunic\\mainapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FCB05A6-FBE7-4169-9481-55338A58F8CE}|Telecomunic\\Telecomunic.csproj|solutionrelative:telecomunic\\mainapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FCB05A6-FBE7-4169-9481-55338A58F8CE}|Telecomunic\\Telecomunic.csproj|D:\\STUDENT\\Iug1n\\ActualThing\\Telecomunic\\telecomunic\\mainapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1FCB05A6-FBE7-4169-9481-55338A58F8CE}|Telecomunic\\Telecomunic.csproj|solutionrelative:telecomunic\\mainapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FCB05A6-FBE7-4169-9481-55338A58F8CE}|Telecomunic\\Telecomunic.csproj|d:\\student\\iug1n\\actualthing\\telecomunic\\telecomunic\\getsubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FCB05A6-FBE7-4169-9481-55338A58F8CE}|Telecomunic\\Telecomunic.csproj|solutionrelative:telecomunic\\getsubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FCB05A6-FBE7-4169-9481-55338A58F8CE}|Telecomunic\\Telecomunic.csproj|D:\\STUDENT\\Iug1n\\ActualThing\\Telecomunic\\telecomunic\\getsubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1FCB05A6-FBE7-4169-9481-55338A58F8CE}|Telecomunic\\Telecomunic.csproj|solutionrelative:telecomunic\\getsubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FCB05A6-FBE7-4169-9481-55338A58F8CE}|Telecomunic\\Telecomunic.csproj|D:\\STUDENT\\Iug1n\\ActualThing\\Telecomunic\\telecomunic\\mycontracts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1FCB05A6-FBE7-4169-9481-55338A58F8CE}|Telecomunic\\Telecomunic.csproj|solutionrelative:telecomunic\\mycontracts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetSubscription.cs",
+              "DocumentMoniker": "D:\\STUDENT\\Iug1n\\ActualThing\\Telecomunic\\Telecomunic\\GetSubscription.cs",
+              "RelativeDocumentMoniker": "Telecomunic\\GetSubscription.cs",
+              "ToolTip": "D:\\STUDENT\\Iug1n\\ActualThing\\Telecomunic\\Telecomunic\\GetSubscription.cs",
+              "RelativeToolTip": "Telecomunic\\GetSubscription.cs",
+              "ViewState": "AQIAAF0BAAAAAAAAAADwv44BAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T09:55:43.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetSubscription.cs [Design]",
+              "DocumentMoniker": "D:\\STUDENT\\Iug1n\\ActualThing\\Telecomunic\\Telecomunic\\GetSubscription.cs",
+              "RelativeDocumentMoniker": "Telecomunic\\GetSubscription.cs",
+              "ToolTip": "D:\\STUDENT\\Iug1n\\ActualThing\\Telecomunic\\Telecomunic\\GetSubscription.cs [Design]",
+              "RelativeToolTip": "Telecomunic\\GetSubscription.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T08:48:45.766Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyContracts.cs",
+              "DocumentMoniker": "D:\\STUDENT\\Iug1n\\ActualThing\\Telecomunic\\Telecomunic\\MyContracts.cs",
+              "RelativeDocumentMoniker": "Telecomunic\\MyContracts.cs",
+              "ToolTip": "D:\\STUDENT\\Iug1n\\ActualThing\\Telecomunic\\Telecomunic\\MyContracts.cs",
+              "RelativeToolTip": "Telecomunic\\MyContracts.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAUwFYAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T09:52:45.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MyContracts.cs [Design]",
+              "DocumentMoniker": "D:\\STUDENT\\Iug1n\\ActualThing\\Telecomunic\\Telecomunic\\MyContracts.cs",
+              "RelativeDocumentMoniker": "Telecomunic\\MyContracts.cs",
+              "ToolTip": "D:\\STUDENT\\Iug1n\\ActualThing\\Telecomunic\\Telecomunic\\MyContracts.cs [Design]",
+              "RelativeToolTip": "Telecomunic\\MyContracts.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T09:51:13.8Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainApp.cs",
+              "DocumentMoniker": "D:\\STUDENT\\Iug1n\\ActualThing\\Telecomunic\\Telecomunic\\MainApp.cs",
+              "RelativeDocumentMoniker": "Telecomunic\\MainApp.cs",
+              "ToolTip": "D:\\STUDENT\\Iug1n\\ActualThing\\Telecomunic\\Telecomunic\\MainApp.cs",
+              "RelativeToolTip": "Telecomunic\\MainApp.cs",
+              "ViewState": "AQIAAHcAAAAAAAAAAAAswI4AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T08:53:53.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainApp.cs [Design]",
+              "DocumentMoniker": "D:\\STUDENT\\Iug1n\\ActualThing\\Telecomunic\\Telecomunic\\MainApp.cs",
+              "RelativeDocumentMoniker": "Telecomunic\\MainApp.cs",
+              "ToolTip": "D:\\STUDENT\\Iug1n\\ActualThing\\Telecomunic\\Telecomunic\\MainApp.cs [Design]",
+              "RelativeToolTip": "Telecomunic\\MainApp.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T09:41:08.082Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

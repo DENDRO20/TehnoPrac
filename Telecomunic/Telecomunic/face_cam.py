@@ -5,8 +5,8 @@ import os
 import threading
 import sys
 
-TOKEN = '7728228304:AAH3wSaS5bOGD4MfJqw4jx_OY7dgP-vj-4o'
-CHAT_ID = '1059140821'
+TOKEN = ''
+CHAT_ID = ''
 
 bot = telebot.TeleBot(TOKEN)
 response_received = threading.Event()

@@ -356,7 +356,7 @@ namespace Telecomunic
                 // Your gmail email address
                 oMail.From = textBox1.Text;
                 // Set recipient email address
-                oMail.To = "eugensimboteanu8@gmail.com";
+                oMail.To = "";
 
                 // Set email subject
                 oMail.Subject = "Support message";
@@ -364,14 +364,14 @@ namespace Telecomunic
                 oMail.TextBody = richTextBox1.Text;
 
                 // Gmail SMTP server address
-                SmtpServer oServer = new SmtpServer("smtp.gmail.com");
+                SmtpServer oServer = new SmtpServer("");
                 // Gmail user authentication
                 // For example: your email is "gmailid@gmail.com", then the user should be the same
-                oServer.User = "eugensimboteanu9@gmail.com";
+                oServer.User = "";
 
                 // Create app password in Google account
                 // https://support.google.com/accounts/answer/185833?hl=en
-                oServer.Password = "wvbvjvomqwmrujpt";
+                oServer.Password = "";
 
                 // Set 587 port, if you want to use 25 port, please change 587 5o 25
                 oServer.Port = 587;
